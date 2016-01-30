@@ -63,3 +63,5 @@ proc.time() - pt
 
 system.time(mean(DT[DT$SEX==1,]$pwgtp15))
 system.time(mean(DT[DT$SEX==2,]$pwgtp15))
+
+print("Azaza");
